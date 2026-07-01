@@ -1,0 +1,1143 @@
+canonical_identifier: bkk:krp/KR6v0299/CBETA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0299/CBETA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 入唐求法巡禮行記
+  identifiers:
+    canon: B
+    vol: '18'
+    'no': '95'
+    krp: KR6v0299
+  tags:
+    kr-categories: KR6v
+    tls-internal: tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR6v0299.xml
+  edition:
+    short: CBETA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0299_000-CBETA.yaml, hash: 'sha256:e9645cd4187b3e942613ed5546e94df6a234589a3f2f16e93e436d174b4d5e3e'}
+  - {seq: 2, filename: KR6v0299_002-CBETA.yaml, hash: 'sha256:6331aad26609621913d45ea7ef07d076b05c5d8ac8ab2322559f30db365b6d65'}
+  - {seq: 3, filename: KR6v0299_003-CBETA.yaml, hash: 'sha256:e3870078152bee67ea9ca7dd7376e042226090854a925b213c2a3cde5ad8a8a8'}
+  - {seq: 4, filename: KR6v0299_004-CBETA.yaml, hash: 'sha256:3e83a77dd6884abab84583317bbf1c43c560a7952f97d0a82f3135e9516e0bc9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0299_000-CBETA.markers.yaml, hash: 'sha256:b0715747aadf3d5f550614c0ec5543fef60f758a6a06ec020cc6b535541e2576'}
+  - {seq: 2, role: markers, filename: assets/KR6v0299_002-CBETA.markers.yaml, hash: 'sha256:545c120bfeeb622033f4f436f418a53eedd1923aeb682dcba6a4755db6cb1e4b'}
+  - {seq: 3, role: markers, filename: assets/KR6v0299_003-CBETA.markers.yaml, hash: 'sha256:2483eb62536e71abbae7a262936c9ebbef138a886d2c5a764d68969c8bcaf6a6'}
+  - {seq: 4, role: markers, filename: assets/KR6v0299_004-CBETA.markers.yaml, hash: 'sha256:7f4cf0d12e779d291537fa67c2d6703f609bf28e966c2d95020c241a6f426cd5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: （日本）承和五年
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-3
+    span:
+    - front
+    - 808
+    - 808
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-4
+    span:
+    - front
+    - 3588
+    - 3588
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-5
+    span:
+    - front
+    - 5204
+    - 5204
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-6
+    span:
+    - front
+    - 6032
+    - 6032
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-7
+    span:
+    - front
+    - 7090
+    - 7090
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-8
+    span:
+    - front
+    - 9262
+    - 9262
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-9
+    span:
+    - front
+    - 10292
+    - 10292
+  label: 開成四年
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-10
+    span:
+    - front
+    - 10292
+    - 10292
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-11
+    span:
+    - front
+    - 12095
+    - 12095
+  label: 閏正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-12
+    span:
+    - front
+    - 12805
+    - 12805
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-13
+    span:
+    - front
+    - 14600
+    - 14600
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0299_CBETA_000-mulu-14
+    span:
+    - front
+    - 15947
+    - 15947
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-juan-start
+    span:
+    - body
+    - 0
+    - 21470
+  label: 入唐求法巡禮行記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-1
+    span:
+    - body
+    - 855
+    - 855
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-2
+    span:
+    - body
+    - 2232
+    - 2232
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-3
+    span:
+    - body
+    - 3365
+    - 3365
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-4
+    span:
+    - body
+    - 4548
+    - 4548
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-5
+    span:
+    - body
+    - 4889
+    - 4889
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-6
+    span:
+    - body
+    - 6163
+    - 6163
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-7
+    span:
+    - body
+    - 6210
+    - 6210
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-8
+    span:
+    - body
+    - 7414
+    - 7414
+  label: 開成五年
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-9
+    span:
+    - body
+    - 7414
+    - 7414
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-10
+    span:
+    - body
+    - 8248
+    - 8248
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-11
+    span:
+    - body
+    - 16319
+    - 16319
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0299_CBETA_002-mulu-12
+    span:
+    - body
+    - 19705
+    - 19705
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-juan-start
+    span:
+    - body
+    - 0
+    - 18934
+  label: 入唐求法巡禮行記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-1
+    span:
+    - body
+    - 5036
+    - 5036
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-2
+    span:
+    - body
+    - 5451
+    - 5451
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-3
+    span:
+    - body
+    - 10095
+    - 10095
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-4
+    span:
+    - body
+    - 12396
+    - 12396
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-5
+    span:
+    - body
+    - 13078
+    - 13078
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-6
+    span:
+    - body
+    - 13567
+    - 13567
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-7
+    span:
+    - body
+    - 13643
+    - 13643
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-8
+    span:
+    - body
+    - 13783
+    - 13783
+  label: 開成六年（會昌元年）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-9
+    span:
+    - body
+    - 13783
+    - 13783
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-10
+    span:
+    - body
+    - 14298
+    - 14298
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-11
+    span:
+    - body
+    - 14829
+    - 14829
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-12
+    span:
+    - body
+    - 14884
+    - 14884
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-13
+    span:
+    - body
+    - 15596
+    - 15596
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-14
+    span:
+    - body
+    - 15876
+    - 15876
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-15
+    span:
+    - body
+    - 15997
+    - 15997
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-16
+    span:
+    - body
+    - 16105
+    - 16105
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-17
+    span:
+    - body
+    - 16171
+    - 16171
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-18
+    span:
+    - body
+    - 16198
+    - 16198
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-19
+    span:
+    - body
+    - 16238
+    - 16238
+  label: 會昌二年
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-20
+    span:
+    - body
+    - 16238
+    - 16238
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-21
+    span:
+    - body
+    - 16268
+    - 16268
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-22
+    span:
+    - body
+    - 16356
+    - 16356
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-23
+    span:
+    - body
+    - 16979
+    - 16979
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-24
+    span:
+    - body
+    - 17014
+    - 17014
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-25
+    span:
+    - body
+    - 17648
+    - 17648
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-26
+    span:
+    - body
+    - 17694
+    - 17694
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-27
+    span:
+    - body
+    - 17729
+    - 17729
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-28
+    span:
+    - body
+    - 17737
+    - 17737
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-29
+    span:
+    - body
+    - 18332
+    - 18332
+  label: 會昌三年
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-30
+    span:
+    - body
+    - 18332
+    - 18332
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-31
+    span:
+    - body
+    - 18562
+    - 18562
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-32
+    span:
+    - body
+    - 18701
+    - 18701
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0299_CBETA_003-mulu-33
+    span:
+    - body
+    - 18737
+    - 18737
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-juan-start
+    span:
+    - body
+    - 0
+    - 22762
+  label: 入唐求法巡禮行記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-2
+    span:
+    - body
+    - 1172
+    - 1172
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-3
+    span:
+    - body
+    - 1270
+    - 1270
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-4
+    span:
+    - body
+    - 1578
+    - 1578
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-5
+    span:
+    - body
+    - 1588
+    - 1588
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-6
+    span:
+    - body
+    - 1668
+    - 1668
+  label: 會昌四年
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-7
+    span:
+    - body
+    - 1668
+    - 1668
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-8
+    span:
+    - body
+    - 1773
+    - 1773
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-9
+    span:
+    - body
+    - 2051
+    - 2051
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-10
+    span:
+    - body
+    - 2545
+    - 2545
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-11
+    span:
+    - body
+    - 3266
+    - 3266
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-12
+    span:
+    - body
+    - 4272
+    - 4272
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-13
+    span:
+    - body
+    - 4366
+    - 4366
+  label: 會昌五年
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-14
+    span:
+    - body
+    - 4366
+    - 4366
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-15
+    span:
+    - body
+    - 4642
+    - 4642
+  label: 三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-16
+    span:
+    - body
+    - 5645
+    - 5645
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-17
+    span:
+    - body
+    - 7490
+    - 7490
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-18
+    span:
+    - body
+    - 8359
+    - 8359
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-19
+    span:
+    - body
+    - 9960
+    - 9960
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-20
+    span:
+    - body
+    - 11181
+    - 11181
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-21
+    span:
+    - body
+    - 11410
+    - 11410
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-22
+    span:
+    - body
+    - 11845
+    - 11845
+  label: 會昌六年
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-23
+    span:
+    - body
+    - 11845
+    - 11845
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-24
+    span:
+    - body
+    - 12043
+    - 12043
+  label: 二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-25
+    span:
+    - body
+    - 12135
+    - 12135
+  label: 四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-26
+    span:
+    - body
+    - 12196
+    - 12196
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-27
+    span:
+    - body
+    - 12297
+    - 12297
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-28
+    span:
+    - body
+    - 12442
+    - 12442
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-29
+    span:
+    - body
+    - 12462
+    - 12462
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-30
+    span:
+    - body
+    - 12607
+    - 12607
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-31
+    span:
+    - body
+    - 12623
+    - 12623
+  label: 會昌七年
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-32
+    span:
+    - body
+    - 12623
+    - 12623
+  label: 正月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-33
+    span:
+    - body
+    - 12666
+    - 12666
+  label: 閏三月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-34
+    span:
+    - body
+    - 12914
+    - 12914
+  label: 五月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-35
+    span:
+    - body
+    - 13064
+    - 13064
+  label: 六月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-36
+    span:
+    - body
+    - 13574
+    - 13574
+  label: 七月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-37
+    span:
+    - body
+    - 13673
+    - 13673
+  label: 八月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-38
+    span:
+    - body
+    - 13702
+    - 13702
+  label: 九月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-39
+    span:
+    - body
+    - 14382
+    - 14382
+  label: 十月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-40
+    span:
+    - body
+    - 14480
+    - 14480
+  label: 十一月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-41
+    span:
+    - body
+    - 14644
+    - 14644
+  label: 十二月
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-42
+    span:
+    - body
+    - 14727
+    - 14727
+  label: 刊行記
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-43
+    span:
+    - body
+    - 15001
+    - 15001
+  label: 附：圓仁與其入唐求法巡禮記
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-44
+    span:
+    - body
+    - 15089
+    - 15089
+  label: 一、圓仁傳略
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-45
+    span:
+    - body
+    - 15723
+    - 15723
+  label: 二、入唐始末
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-46
+    span:
+    - body
+    - 17065
+    - 17065
+  label: 三、入唐巡禮記之流傳與版本
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-47
+    span:
+    - body
+    - 18257
+    - 18257
+  label: 四、入唐巡禮記之史料價值
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-48
+    span:
+    - body
+    - 21617
+    - 21617
+  label: 五、入唐巡禮記之文學價值
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0299_CBETA_004-mulu-49
+    span:
+    - body
+    - 22510
+    - 22510
+  label: 六、餘論
+  type: mulu
+  level: 1
+hash: sha256:8a266153a88952ad7386789c2b09416df3aede2dec68a32f547db5ac29b475c7
