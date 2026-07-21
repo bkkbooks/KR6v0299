@@ -20,12 +20,12 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0299_000-CBETA.yaml, hash: 'sha256:e9645cd4187b3e942613ed5546e94df6a234589a3f2f16e93e436d174b4d5e3e'}
+  - {seq: 0, filename: KR6v0299_000-CBETA.yaml, hash: 'sha256:182f42f7aa4dfebacb950760b446c53c7d86910e705a1c1f8ef8129de0a5ca79'}
   - {seq: 2, filename: KR6v0299_002-CBETA.yaml, hash: 'sha256:6331aad26609621913d45ea7ef07d076b05c5d8ac8ab2322559f30db365b6d65'}
   - {seq: 3, filename: KR6v0299_003-CBETA.yaml, hash: 'sha256:e3870078152bee67ea9ca7dd7376e042226090854a925b213c2a3cde5ad8a8a8'}
   - {seq: 4, filename: KR6v0299_004-CBETA.yaml, hash: 'sha256:3e83a77dd6884abab84583317bbf1c43c560a7952f97d0a82f3135e9516e0bc9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0299_000-CBETA.markers.yaml, hash: 'sha256:b0715747aadf3d5f550614c0ec5543fef60f758a6a06ec020cc6b535541e2576'}
+  - {seq: 0, role: markers, filename: assets/KR6v0299_000-CBETA.markers.yaml, hash: 'sha256:0633bea1e35c8886d04b3ae3d98d78c76f2a7ad563c669f9cf0907a674cd76ef'}
   - {seq: 2, role: markers, filename: assets/KR6v0299_002-CBETA.markers.yaml, hash: 'sha256:545c120bfeeb622033f4f436f418a53eedd1923aeb682dcba6a4755db6cb1e4b'}
   - {seq: 3, role: markers, filename: assets/KR6v0299_003-CBETA.markers.yaml, hash: 'sha256:2483eb62536e71abbae7a262936c9ebbef138a886d2c5a764d68969c8bcaf6a6'}
   - {seq: 4, role: markers, filename: assets/KR6v0299_004-CBETA.markers.yaml, hash: 'sha256:7f4cf0d12e779d291537fa67c2d6703f609bf28e966c2d95020c241a6f426cd5'}
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: （日本）承和五年
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 六月
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 808
     - 808
   label: 七月
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-4
     span:
-    - front
+    - body
     - 3588
     - 3588
   label: 八月
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-5
     span:
-    - front
+    - body
     - 5204
     - 5204
   label: 九月
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-6
     span:
-    - front
+    - body
     - 6032
     - 6032
   label: 十月
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-7
     span:
-    - front
+    - body
     - 7090
     - 7090
   label: 十一月
@@ -104,7 +104,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-8
     span:
-    - front
+    - body
     - 9262
     - 9262
   label: 十二月
@@ -114,7 +114,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-9
     span:
-    - front
+    - body
     - 10292
     - 10292
   label: 開成四年
@@ -124,7 +124,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-10
     span:
-    - front
+    - body
     - 10292
     - 10292
   label: 正月
@@ -134,7 +134,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-11
     span:
-    - front
+    - body
     - 12095
     - 12095
   label: 閏正月
@@ -144,7 +144,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-12
     span:
-    - front
+    - body
     - 12805
     - 12805
   label: 二月
@@ -154,7 +154,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-13
     span:
-    - front
+    - body
     - 14600
     - 14600
   label: 三月
@@ -164,7 +164,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0299_CBETA_000-mulu-14
     span:
-    - front
+    - body
     - 15947
     - 15947
   label: 四月
@@ -1140,4 +1140,4 @@ table_of_contents:
   label: 六、餘論
   type: mulu
   level: 1
-hash: sha256:8a266153a88952ad7386789c2b09416df3aede2dec68a32f547db5ac29b475c7
+hash: sha256:17eaa9eee73175b87a2132f76725415a0e2bec70624fbdc9dd5db7fb3876244e
